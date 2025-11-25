@@ -30,6 +30,10 @@ OctoAcme employs a structured, iterative approach to project management, spannin
 | **Developers** | Implement features, write tests, participate in code reviews, and help identify technical risks. |
 | **QA** | Ensure final deliverables meet acceptance criteria through testing and validation. |
 | **Stakeholders** | Provide inputs, feedback, and approvals throughout the project lifecycle. |
+| **UI/UX Designer** | Design interfaces, run usability tests, and collaborate with PM/PdM/Dev on user experience. |
+| **Technical Writer** | Maintain process docs, support onboarding, and align information across teams. |
+| **Support Lead** | Bridge users and engineering, escalate feedback, and coordinate on incidents. |
+| **DevOps Engineer** | Lead CI/CD, automation, and deployment reliability; collaborate with Dev and QA. |
 
 ### Communication Strategies
 

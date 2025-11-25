@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. UI/UX Designer reviews design requirements and prepares wireframes/prototypes
+8. Technical Writer drafts initial documentation plan and onboarding materials
 
 ## Backlog Item Template
 - Title:

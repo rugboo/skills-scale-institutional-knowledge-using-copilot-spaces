@@ -23,6 +23,7 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Support Lead aggregates user feedback and escalates to Product and Engineering
 
 ## Communication Templates
 Weekly Status Template:
@@ -33,7 +34,7 @@ Weekly Status Template:
 
 Incident Communication
 - Triage summary
-- Actions being taken
+- Actions being taken (coordinate with Support Lead for user-facing updates)
 - Expected timeline
 - Post-incident blameless retrospective scheduled
 

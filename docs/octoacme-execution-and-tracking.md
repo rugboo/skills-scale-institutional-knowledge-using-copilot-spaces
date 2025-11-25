@@ -13,8 +13,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
-  - Run automated tests and linting in CI before requesting review
+  - Run automated tests and linting in CI before requesting review (coordinate with DevOps Engineer on pipeline issues)
   - Require at least one approval before merging (or team-defined policy)
+- Design handoff: UI/UX Designer provides design specs and assets; Developers confirm implementation fidelity
 
 ## Quality & Testing
 - Unit tests for new logic
